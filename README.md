@@ -1,1 +1,1 @@
-# amaazona-app
+# amazon-clone
